@@ -1,0 +1,9 @@
+{
+	"id": "emx-vault-studio",
+	"name": "EMX Vault Studio",
+	"version": "2.0.4",
+	"minAppVersion": "1.5.0",
+	"description": "Fully customizable look for the EMX vault: colors, fonts, shapes, glow and a living neural graph of your notes.",
+	"author": "EMX",
+	"isDesktopOnly": false
+}
